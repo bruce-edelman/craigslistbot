@@ -1,0 +1,131 @@
+CraigsList Bot Ran at: 2019-01-06 18:56:19.377941 
+ Found 1 new msgs: 
+Msg_0_sent_id: SMec3cf7fdc7e441378bf0276c4edd6df2
+Ending time: 2019-01-06 18:56:36.240621
+CraigsList Bot Ran at: 2019-01-06 18:57:33.317029 
+ Found 1 new msgs: 
+Msg_0_sent_id: SM093e8deb89d44ac39e1a6c248a76596b
+Ending time: 2019-01-06 18:57:50.639604
+CraigsList Bot Ran at: 2019-01-06 19:20:35.314018 
+ Found 0 new msgs: 
+Ending time: 2019-01-07 06:20:38.169855
+CraigsList Bot Ran at: 2019-01-07 19:20:38.273672 
+ Found 0 new msgs: 
+Ending time: 2019-01-08 06:20:44.807493
+CraigsList Bot Ran at: 2019-01-13 19:20:37.120704 
+ Found 0 new msgs: 
+Ending time: 2019-01-14 18:20:59.902082
+CraigsList Bot Ran at: 2019-01-14 19:20:36.380276 
+ Found 0 new msgs: 
+Ending time: 2019-01-15 18:20:56.106626
+CraigsList Bot Ran at: 2019-01-15 19:20:36.194127 
+ Found 0 new msgs: 
+Ending time: 2019-01-16 18:20:58.727465
+CraigsList Bot Ran at: 2019-01-17 19:20:35.941280 
+ Found 0 new msgs: 
+Ending time: 2019-01-18 18:20:58.160046
+CraigsList Bot Ran at: 2019-01-18 19:20:36.241879 
+ Found 0 new msgs: 
+Ending time: 2019-01-19 18:20:58.616719
+CraigsList Bot Ran at: 2019-01-19 19:20:36.219904 
+ Found 0 new msgs: 
+Ending time: 2019-01-20 18:20:54.934424
+CraigsList Bot Ran at: 2019-01-25 19:20:36.292343 
+ Found 0 new msgs: 
+Ending time: 2019-01-26 18:20:55.644446
+CraigsList Bot Ran at: 2019-01-26 19:20:36.443924 
+ Found 0 new msgs: 
+Ending time: 2019-01-27 18:20:58.864052
+CraigsList Bot Ran at: 2019-01-27 19:20:36.270502 
+ Found 0 new msgs: 
+Ending time: 2019-01-28 18:26:01.703404
+CraigsList Bot Ran at: 2019-01-28 19:20:36.527328 
+ Found 0 new msgs: 
+Ending time: 2019-01-29 18:20:59.372835
+CraigsList Bot Ran at: 2019-02-07 19:20:37.333994 
+ Found 0 new msgs: 
+Ending time: 2019-02-08 18:21:13.834488
+CraigsList Bot Ran at: 2019-02-19 19:20:37.479421 
+ Found 0 new msgs: 
+Ending time: 2019-02-20 18:21:14.919545
+CraigsList Bot Ran at: 2019-02-20 19:20:37.391653 
+ Found 0 new msgs: 
+Ending time: 2019-02-21 18:21:03.381947
+CraigsList Bot Ran at: 2019-02-24 19:20:38.947529 
+ Found 0 new msgs: 
+Ending time: 2019-02-25 18:21:18.288935
+CraigsList Bot Ran at: 2019-02-25 19:20:37.358424 
+ Found 0 new msgs: 
+Ending time: 2019-02-26 18:21:24.338732
+CraigsList Bot Ran at: 2019-03-04 19:20:37.793549 
+ Found 0 new msgs: 
+Ending time: 2019-03-05 18:21:23.650627
+CraigsList Bot Ran at: 2019-03-07 19:20:36.767949 
+ Found 0 new msgs: 
+Ending time: 2019-03-08 18:21:45.065560
+CraigsList Bot Ran at: 2019-03-10 19:20:36.510273 
+ Found 0 new msgs: 
+Ending time: 2019-03-11 18:21:36.751932
+CraigsList Bot Ran at: 2019-03-14 19:20:36.905461 
+ Found 0 new msgs: 
+Ending time: 2019-03-15 18:21:13.229933
+CraigsList Bot Ran at: 2019-03-17 19:20:38.237970 
+ Found 0 new msgs: 
+Ending time: 2019-03-18 18:21:12.000939
+CraigsList Bot Ran at: 2019-03-19 19:20:37.640697 
+ Found 0 new msgs: 
+Ending time: 2019-03-20 18:21:11.687509
+CraigsList Bot Ran at: 2019-03-20 19:20:36.911705 
+ Found 0 new msgs: 
+Ending time: 2019-03-21 18:21:09.391553
+CraigsList Bot Ran at: 2019-03-21 19:20:36.785795 
+ Found 0 new msgs: 
+Ending time: 2019-03-22 18:21:10.982655
+CraigsList Bot Ran at: 2019-03-22 19:20:36.801437 
+ Found 0 new msgs: 
+Ending time: 2019-03-23 18:21:11.292500
+CraigsList Bot Ran at: 2019-03-28 19:20:37.703634 
+ Found 0 new msgs: 
+Ending time: 2019-03-29 18:26:10.632191
+CraigsList Bot Ran at: 2019-04-13 19:20:35.924430 
+ Found 0 new msgs: 
+Ending time: 2019-04-14 18:21:14.795077
+CraigsList Bot Ran at: 2019-04-16 19:20:36.425774 
+ Found 0 new msgs: 
+Ending time: 2019-04-17 18:21:06.299286
+CraigsList Bot Ran at: 2019-04-22 19:20:37.848967 
+ Found 0 new msgs: 
+Ending time: 2019-04-23 18:21:21.556955
+CraigsList Bot Ran at: 2019-04-23 19:20:36.097914 
+ Found 0 new msgs: 
+Ending time: 2019-04-24 18:21:09.681428
+CraigsList Bot Ran at: 2019-04-24 19:20:36.126826 
+ Found 0 new msgs: 
+Ending time: 2019-04-25 18:21:06.593281
+CraigsList Bot Ran at: 2019-04-25 19:20:36.106317 
+ Found 0 new msgs: 
+Ending time: 2019-04-26 18:21:06.881816
+CraigsList Bot Ran at: 2019-04-26 19:20:36.090747 
+ Found 0 new msgs: 
+Ending time: 2019-04-27 18:21:12.667261
+CraigsList Bot Ran at: 2019-04-27 19:20:36.247212 
+ Found 0 new msgs: 
+Ending time: 2019-04-28 18:21:09.268988
+CraigsList Bot Ran at: 2019-04-30 19:20:36.294474 
+ Found 0 new msgs: 
+Ending time: 2019-05-01 18:21:04.499103
+CraigsList Bot Ran at: 2019-05-01 19:20:36.293829 
+ Found 0 new msgs: 
+Ending time: 2019-05-02 18:21:09.571075
+CraigsList Bot Ran at: 2019-05-02 19:20:36.286101 
+ Found 0 new msgs: 
+Ending time: 2019-05-03 18:21:04.166312
+CraigsList Bot Ran at: 2019-05-03 19:20:36.320741 
+ Found 0 new msgs: 
+Ending time: 2019-05-04 18:21:08.624656
+CraigsList Bot Ran at: 2019-05-04 19:20:36.275736 
+ Found 0 new msgs: 
+Ending time: 2019-05-05 18:21:10.419347
+CraigsList Bot Ran at: 2019-05-25 19:20:36.812863 
+ Found 0 new msgs: 
+Ending time: 2019-05-26 18:21:26.119488
